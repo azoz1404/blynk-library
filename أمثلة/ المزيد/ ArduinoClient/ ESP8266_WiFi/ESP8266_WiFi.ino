@@ -35,8 +35,8 @@
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-const char* ssid = "YourNetworkName";
-const char* pass = "YourPassword";
+const char* ssid = "mycar.Deem";
+const char* pass = "123456788";
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
